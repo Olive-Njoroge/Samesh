@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+.shoes{
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 100%;
+}
+
+.order{
+    margin: auto;
+    max-width: 600px;
+}
